@@ -1,0 +1,14 @@
+# Password Wizzard
+    #### Video Demo:  https://www.youtube.com/watch?v=kx0Y_Un3rdk
+    #### Description:
+The main goal of this project is to showcase the importance of password management. In "Password Wizzard" users can access five different subprograms. In all of the programs, there is a way to return to the main menu before entering the correct number or by using Ctrl+D. However, if the user uses this method in the main project, they will be bid farewell with a "Goodbye!". also "Password Wizard" as it's a wizzard can change names! When program is run diferent names are displayed everytime.
+
+The first one is "Brute Force," where the user can see what brute-forcing a password really looks like. The first option allows users to set parameters for the attack; here, they can determine which characters should be included in the password hacking. Next, the user can run the program with the default password or change it in the next option (the length is always determined by the password length and cannot be changed manually).
+
+The second program can check the strength of the user-provided password. The first option of the program is to input the password, which will be checked at a default speed of 1 billion tries per second (this can be changed manually if the user enters "2" and specifies the desired requests per second). Finally, the user can enter "3" to run a password check and find out if the provided password is secure. If the provided password is on the common.txt password list, it will recommend changing the password because it is insecure.
+
+The third subprogram is the "Password Generator," which, as the name suggests, can generate passwords. The user can specify the characters with which the password will be generated and also the length of the password. When the password is generated, it will also display the password's security level.
+
+The fourth subprogram is the "Encryption Tool," which has three different use cases. The first is hashing the input with a hashing algorithm provided by the user. It outputs both the raw and hex hash. The second use case involves input encryption and decryption using public and private keys. The final use case is encryption and decryption with a key provided by the user.
+
+The final subprogram is a mini password manager to showcase how password managers work. It can also inform the user if a password should be changed based on the time it was added and best cybersecurity practices. It should be noted that in this manager, passwords are not stored according to best practices using encryption; they are stored in plain text, which should not be the case in a real application.
