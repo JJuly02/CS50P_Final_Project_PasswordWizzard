@@ -1,3 +1,6 @@
+Here’s the full README in Markdown format with the video demo link:
+
+```markdown
 # Password Wizard: A Multi-Tool for Password Management and Encryption
 
 Welcome to **Password Wizard**, a versatile tool that demonstrates key concepts in password management, encryption, and cybersecurity. This project offers five unique subprograms that help users understand and interact with password-related tools, ranging from brute force demonstrations to password generation and encryption.
@@ -74,3 +77,54 @@ Here’s an overview of the files in this repository:
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
+  ```
+
+### Run the Program
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/PasswordWizard.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd PasswordWizard
+   ```
+3. Run the main program:
+   ```bash
+   python project.py
+   ```
+
+### Subprogram Navigation
+- The main menu lets you choose any of the five subprograms.
+- You can exit any subprogram and return to the main menu.
+- Exiting the main program gracefully bids you "Goodbye!"
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational purposes only**. The demo password manager stores passwords in plaintext and does not follow best security practices. Do not use this tool to store real passwords.
+
+---
+
+## 🌟 Highlights
+
+- Every time you run **Password Wizard**, the program randomly displays a new name for fun and variety.
+- Demonstrates essential cybersecurity concepts, making it perfect for learning and experimenting.
+
+---
+
+## 📜 License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🎥 Video Demo
+
+Watch the demo of **Password Wizard** in action here:  
+[Video Demo](https://www.youtube.com/watch?v=kx0Y_Un3rdk)
+
+---
+
+Happy exploring and learning! 🧙‍♂️✨
+```
