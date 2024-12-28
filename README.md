@@ -1,6 +1,3 @@
-Here’s the full README in Markdown format with the video demo link:
-
-```markdown
 # Password Wizard: A Multi-Tool for Password Management and Encryption
 
 Welcome to **Password Wizard**, a versatile tool that demonstrates key concepts in password management, encryption, and cybersecurity. This project offers five unique subprograms that help users understand and interact with password-related tools, ranging from brute force demonstrations to password generation and encryption.
