@@ -124,4 +124,3 @@ Watch the demo of **Password Wizard** in action here:
 ---
 
 Happy exploring and learning! 🧙‍♂️✨
-```
